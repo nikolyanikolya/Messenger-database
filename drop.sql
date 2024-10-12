@@ -1,0 +1,11 @@
+drop view  vieweddirectmessages;
+drop view threads;
+drop view threadMessages;
+drop table messageattachments;
+drop table messagefollowers;
+drop table directmessagesviews;
+drop table reactions;
+drop table messages;
+drop table channelparticipants;
+drop table channels;
+drop table users;
